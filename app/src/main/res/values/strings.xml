@@ -1,0 +1,31 @@
+<resources>
+    <string name="app_name">Absolventi</string>
+    <string name="sec1">Secolul\nXX</string>
+    <string name="sec2">Secolul\nXXI</string>
+    <string name="dec1">Deceniul\nI</string>
+    <string name="dec2">Deceniul\nII</string>
+    <string name="dec3">Deceniul\nIII</string>
+    <string name="dec4">Deceniul\nIV</string>
+    <string name="dec5">Deceniul\nV</string>
+    <string name="dec6">Deceniul\nVI</string>
+    <string name="dec7">Deceniul\nVII</string>
+    <string name="dec8">Deceniul\nVIII</string>
+    <string name="dec9">Deceniul\nIX</string>
+    <string name="dec10">Deceniul\nX</string>
+    <string name="an1">Anul\nI</string>
+    <string name="an2">Anul\nII</string>
+    <string name="an3">Anul\nIII</string>
+    <string name="an4">Anul\nIV</string>
+    <string name="an5">Anul\nV</string>
+    <string name="an6">Anul\nVI</string>
+    <string name="an7">Anul\nVII</string>
+    <string name="an8">Anul\nVIII</string>
+    <string name="an9">Anul\nIX</string>
+    <string name="an10">Anul\nX</string>
+    <string name="cl1">Clasa\nA</string>
+    <string name="cl2">Clasa\nB</string>
+    <string name="cl3">Clasa\nC</string>
+    <string name="cl4">Clasa\nD</string>
+    <string name="cl5">Clasa\nE</string>
+
+</resources>
