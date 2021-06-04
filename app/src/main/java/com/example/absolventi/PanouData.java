@@ -1,5 +1,9 @@
 package com.example.absolventi;
 
+import android.app.AlertDialog;
+import android.view.View;
+import android.widget.Toast;
+
 import java.io.Serializable;
 public class PanouData implements Serializable{
     private int secol, deceniu, an;

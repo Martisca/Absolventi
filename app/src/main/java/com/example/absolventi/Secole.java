@@ -8,6 +8,7 @@ import android.os.Bundle;
 import android.view.View;
 import android.widget.Button;
 import android.widget.ImageView;
+import android.widget.Toast;
 
 public class Secole extends AppCompatActivity {
 
@@ -20,7 +21,7 @@ public class Secole extends AppCompatActivity {
         ImageView im=(ImageView)findViewById(R.id.imageView3);
 
         im.setScaleType(ImageView.ScaleType.FIT_XY);
-        im.setElevation(1);
+        //im.setElevation(1);
 
         Button button= (Button)findViewById(R.id.button1) ;
         button.setOnClickListener(new View.OnClickListener(){
@@ -44,6 +45,8 @@ public class Secole extends AppCompatActivity {
             }
         });
     }
+
+
 
 /*    public void incepe(View v){
         Intent i=new Intent(this,Decenii.class);

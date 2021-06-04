@@ -13,7 +13,7 @@
         android:layout_height="145dp"
         android:layout_marginStart="24dp"
         android:layout_marginLeft="24dp"
-        android:layout_marginTop="35dp"
+        android:layout_marginTop="52dp"
         android:layout_marginEnd="24dp"
         android:layout_marginRight="24dp"
         android:scaleType="fitXY"
@@ -28,115 +28,9 @@
         android:layout_height="550dp"
         android:layout_marginStart="100dp"
         android:layout_marginLeft="100dp"
-        android:layout_marginTop="205dp"
+        android:layout_marginTop="245dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
-
-        <TableRow
-            android:layout_width="match_parent"
-            android:layout_height="match_parent"
-            android:layout_marginBottom="35dp">
-
-            <ImageButton
-                android:id="@+id/poza12"
-                android:layout_width="96dp"
-                android:layout_height="145dp"
-                android:layout_marginLeft="2dp"
-                android:layout_marginRight="10dp"
-                android:scaleType="fitXY"
-                android:visibility="visible"
-                app:srcCompat="@drawable/unknown_person" />
-
-            <ImageButton
-                android:id="@+id/poza13"
-                android:layout_width="96dp"
-                android:layout_height="145dp"
-                android:layout_marginLeft="2dp"
-                android:layout_marginRight="10dp"
-                android:scaleType="fitXY"
-                android:visibility="visible"
-                app:srcCompat="@drawable/unknown_person" />
-
-            <ImageButton
-                android:id="@+id/poza14"
-                android:layout_width="96dp"
-                android:layout_height="145dp"
-                android:layout_marginLeft="2dp"
-                android:layout_marginRight="10dp"
-                android:scaleType="fitXY"
-                android:visibility="visible"
-                app:srcCompat="@drawable/unknown_person" />
-
-            <ImageButton
-                android:id="@+id/poza15"
-                android:layout_width="96dp"
-                android:layout_height="145dp"
-                android:layout_marginLeft="2dp"
-                android:layout_marginRight="10dp"
-                android:scaleType="fitXY"
-                android:visibility="visible"
-                app:srcCompat="@drawable/unknown_person" />
-
-            <ImageButton
-                android:id="@+id/poza16"
-                android:layout_width="96dp"
-                android:layout_height="145dp"
-                android:layout_marginLeft="2dp"
-                android:layout_marginRight="10dp"
-                android:scaleType="fitXY"
-                android:visibility="visible"
-                app:srcCompat="@drawable/unknown_person" />
-
-            <ImageButton
-                android:id="@+id/poza17"
-                android:layout_width="96dp"
-                android:layout_height="145dp"
-                android:layout_marginLeft="2dp"
-                android:layout_marginRight="10dp"
-                android:scaleType="fitXY"
-                android:visibility="visible"
-                app:srcCompat="@drawable/unknown_person" />
-
-            <ImageButton
-                android:id="@+id/poza18"
-                android:layout_width="96dp"
-                android:layout_height="145dp"
-                android:layout_marginLeft="2dp"
-                android:layout_marginRight="10dp"
-                android:scaleType="fitXY"
-                android:visibility="visible"
-                app:srcCompat="@drawable/unknown_person" />
-
-            <ImageButton
-                android:id="@+id/poza19"
-                android:layout_width="96dp"
-                android:layout_height="145dp"
-                android:layout_marginLeft="2dp"
-                android:layout_marginRight="10dp"
-                android:scaleType="fitXY"
-                android:visibility="visible"
-                app:srcCompat="@drawable/unknown_person" />
-
-            <ImageButton
-                android:id="@+id/poza20"
-                android:layout_width="96dp"
-                android:layout_height="145dp"
-                android:layout_marginLeft="2dp"
-                android:layout_marginRight="10dp"
-                android:scaleType="fitXY"
-                android:visibility="visible"
-                app:srcCompat="@drawable/unknown_person" />
-
-            <ImageButton
-                android:id="@+id/poza21"
-                android:layout_width="96dp"
-                android:layout_height="145dp"
-                android:layout_marginLeft="2dp"
-                android:layout_marginRight="10dp"
-                android:scaleType="fitXY"
-                android:visibility="visible"
-                app:srcCompat="@drawable/unknown_person" />
-        </TableRow>
 
         <TableRow
             android:layout_width="match_parent"
@@ -249,9 +143,8 @@
             android:layout_height="match_parent"
             android:layout_marginBottom="35dp">
 
-
             <ImageButton
-                android:id="@+id/poza11"
+                android:id="@+id/poza12"
                 android:layout_width="96dp"
                 android:layout_height="145dp"
                 android:layout_marginLeft="2dp"
@@ -261,7 +154,7 @@
                 app:srcCompat="@drawable/unknown_person" />
 
             <ImageButton
-                android:id="@+id/imageButton20"
+                android:id="@+id/poza13"
                 android:layout_width="96dp"
                 android:layout_height="145dp"
                 android:layout_marginLeft="2dp"
@@ -271,7 +164,7 @@
                 app:srcCompat="@drawable/unknown_person" />
 
             <ImageButton
-                android:id="@+id/imageButton39"
+                android:id="@+id/poza14"
                 android:layout_width="96dp"
                 android:layout_height="145dp"
                 android:layout_marginLeft="2dp"
@@ -281,7 +174,7 @@
                 app:srcCompat="@drawable/unknown_person" />
 
             <ImageButton
-                android:id="@+id/imageButton40"
+                android:id="@+id/poza15"
                 android:layout_width="96dp"
                 android:layout_height="145dp"
                 android:layout_marginLeft="2dp"
@@ -291,7 +184,7 @@
                 app:srcCompat="@drawable/unknown_person" />
 
             <ImageButton
-                android:id="@+id/imageButton41"
+                android:id="@+id/poza16"
                 android:layout_width="96dp"
                 android:layout_height="145dp"
                 android:layout_marginLeft="2dp"
@@ -301,7 +194,7 @@
                 app:srcCompat="@drawable/unknown_person" />
 
             <ImageButton
-                android:id="@+id/imageButton42"
+                android:id="@+id/poza17"
                 android:layout_width="96dp"
                 android:layout_height="145dp"
                 android:layout_marginLeft="2dp"
@@ -311,7 +204,7 @@
                 app:srcCompat="@drawable/unknown_person" />
 
             <ImageButton
-                android:id="@+id/imageButton43"
+                android:id="@+id/poza18"
                 android:layout_width="96dp"
                 android:layout_height="145dp"
                 android:layout_marginLeft="2dp"
@@ -321,7 +214,7 @@
                 app:srcCompat="@drawable/unknown_person" />
 
             <ImageButton
-                android:id="@+id/imageButton44"
+                android:id="@+id/poza19"
                 android:layout_width="96dp"
                 android:layout_height="145dp"
                 android:layout_marginLeft="2dp"
@@ -331,7 +224,7 @@
                 app:srcCompat="@drawable/unknown_person" />
 
             <ImageButton
-                android:id="@+id/imageButton45"
+                android:id="@+id/poza20"
                 android:layout_width="96dp"
                 android:layout_height="145dp"
                 android:layout_marginLeft="2dp"
@@ -341,7 +234,7 @@
                 app:srcCompat="@drawable/unknown_person" />
 
             <ImageButton
-                android:id="@+id/imageButton46"
+                android:id="@+id/poza21"
                 android:layout_width="96dp"
                 android:layout_height="145dp"
                 android:layout_marginLeft="2dp"
