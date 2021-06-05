@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "473687541688",
+    "firebase_url": "https://absolventi-981eb-default-rtdb.europe-west1.firebasedatabase.app",
+    "project_id": "absolventi-981eb",
+    "storage_bucket": "absolventi-981eb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:473687541688:android:2e6dca6e6b279e9571f14d",
+        "android_client_info": {
+          "package_name": "com.example.absolventi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "473687541688-v6o3mfh4ob64h7ctrbhkdisrtdnjnd2a.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_vwTyxiG37Te359H12gVZkCmmDnbFGWk"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "473687541688-v6o3mfh4ob64h7ctrbhkdisrtdnjnd2a.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
