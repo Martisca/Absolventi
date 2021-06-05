@@ -7,27 +7,37 @@
     android:background="@drawable/background"
     tools:context=".Secole">
 
-    <ImageButton
-        android:id="@+id/imageButton"
+    <ImageView
+        android:id="@+id/diriguboss"
         android:layout_width="96dp"
         android:layout_height="145dp"
-        android:layout_marginStart="24dp"
-        android:layout_marginLeft="24dp"
         android:layout_marginTop="52dp"
         android:layout_marginEnd="24dp"
-        android:layout_marginRight="24dp"
-        android:scaleType="fitXY"
         android:visibility="visible"
         app:layout_constraintEnd_toEndOf="parent"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent"
         app:srcCompat="@drawable/unknown_person" />
 
+    <ImageButton
+        android:id="@+id/imageButton"
+        android:layout_width="96dp"
+        android:layout_height="145dp"
+        android:layout_marginStart="24dp"
+        android:layout_marginTop="52dp"
+        android:layout_marginEnd="24dp"
+        android:scaleType="fitXY"
+        android:visibility="invisible"
+        app:layout_constraintEnd_toEndOf="parent"
+        app:layout_constraintStart_toStartOf="parent"
+        app:layout_constraintTop_toTopOf="parent"
+        app:srcCompat="@drawable/unknown_person" />
+
     <TableLayout
+        android:id="@+id/tableLayout"
         android:layout_width="1077dp"
         android:layout_height="550dp"
         android:layout_marginStart="100dp"
-        android:layout_marginLeft="100dp"
         android:layout_marginTop="245dp"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent">
